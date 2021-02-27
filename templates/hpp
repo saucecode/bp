@@ -1,0 +1,11 @@
+{"default_name": "Header"}
+#pragma once
+
+class %%name%% {
+public:
+	
+	%%name%%();
+
+private:
+	
+};
